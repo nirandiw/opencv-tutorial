@@ -1,2 +1,2 @@
 # opencv-tutorial
-OpenCV scripts for image processing 
+OpenCV scripts for image processing..
